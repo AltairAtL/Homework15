@@ -1,5 +1,6 @@
 @import "normalize";
 @import "fonts";
+@import "nav";
 
 body {
   width: auto;
@@ -44,8 +45,9 @@ body {
   top: 0px;
   background: url("../img/BG\ 1.png");
   .logo {
-    margin: 50px 458px 0px 180px;
+    // margin: 50px 458px 0px 180px;
     display: block;
+    margin: 50px 0px 20px 650px;
   }
 
   .menu {
