@@ -357,8 +357,6 @@ body:after {
   background: #1539cf;
 }
 
-/* MAIN VARIABLES FOR CUSTOMIZATION */
-/* -------------------------------- */
 .nav {
   overflow: hidden;
   position: fixed;
@@ -636,11 +634,6 @@ body {
 }
 .about_us .about_us__img {
   padding-top: 50px;
-}
-@media (max-width: 1200px) {
-  .about_us .about_us__img {
-    display: none;
-  }
 }
 .about_us .about_us_main {
   padding: 50px 0px 0px 60px;
